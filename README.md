@@ -1,0 +1,1 @@
+# kanhaiya0318-Sanskrit-English-Retrieval-fine-tuning-multilingual-e5-small-on-the-Bhagavad-Gita
